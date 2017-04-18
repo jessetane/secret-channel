@@ -1,0 +1,11 @@
+{
+  "name": "secret-channel",
+  "version": "1.0.0",
+  "description": "A protocol for creating confidential communication channels",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "repository": "https://github.com/jessetane/secret-channel.git",
+  "author": "jesse.tane@gmail.com",
+  "license": "MIT"
+}
